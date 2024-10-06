@@ -10,9 +10,9 @@ if True:
         
         import requests
 
-        repo_url = "https://github.com/soda2611/Whoop/archive/refs/heads/main.zip"
+        repo_url = "https://github.com/soda2611/Whoop-for-Pydroid/archive/refs/heads/main.zip"
 
-        repo_dir = "Whoop-main"
+        repo_dir = "Whoop-for-Pydroid-main"
 
         sod_dir = "Whoop"
 
