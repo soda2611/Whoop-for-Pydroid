@@ -1,1 +1,9 @@
-
+boost performance: True
+theme: Light
+current palette: 255, 255, 255; 245, 245, 245; 230, 230, 230; 0, 0, 0; 0, 0, 0; 255, 255, 255
+fonts: segoeuib
+version: m.1.0.0dev
+banner: func/setting/img/Logo.png
+icon: func/setting/img/Icon.png
+title: Whoop
+auto translate: False
