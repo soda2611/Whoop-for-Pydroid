@@ -6,17 +6,7 @@
 
 ## Cài đặt
 
-Để cài đặt dự án này, hãy tải xuống file setup.py, sau đó chạy file để tiến hành thiết lập cho nhà phát triển. 
-
-## Yêu cầu hệ thống:
-- Phiên bản Python: 3.8.0 trở lên (khuyến nghị 3.11)
-- Phiên bản hệ điều hành:
-  + Windows: Windows 7 trở lên (khuyến nghị Windows 10)
-  + Linux: các phiên bản hỗ trợ Python 3.8.0 trở lên
-  + macOS: các phiên bản hỗ trợ Python 3.8.0 trở lên
-- Phần cứng:
-  + RAM: 2GB trở lên
-  + Ổ cứng: còn trống ít nhất 100MB
+Để cài đặt dự án này, hãy tải xuống file setup.py, sau đó chạy file trong Pydroid 3 để tiến hành thiết lập cho nhà phát triển.
 
 ## Đóng góp
 
